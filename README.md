@@ -1,4 +1,4 @@
-Setup:
+# Setup:
 
 To have the taste of both local system and dockers, the whole setup is divided into 2 parts.
 
