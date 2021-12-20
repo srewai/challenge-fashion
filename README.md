@@ -8,6 +8,7 @@ A virtual Env for running the jupyter notebook locally
 ## Section: 2. Use Dockers as microservice used for:
 
 a. Running the tensorboard to see the training metrics.
+
 b. Running TF serving for serving the model as endpoint.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
