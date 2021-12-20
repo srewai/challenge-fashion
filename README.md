@@ -18,6 +18,7 @@ b. Running TF serving for serving the model as endpoint.
 a. Create virtual env with below command and activate it:
 
 `virtualenv challenge-fashion`
+
 `source challenge-fashion/bin/activate`
 
 b.Install all the dependencies 
@@ -72,7 +73,7 @@ Now inside the container goto tensorboard folder
 
 `tensorboard --logdir logs --host 0.0.0.0`
 
-This will start tensorboard for monitoring metrics on the url 0.0.0.0:6006 accessible on your local system browser
+This will start tensorboard for monitoring metrics on the url `0.0.0.0:6006` accessible on your local system browser
 
 #### B. For serving our Best model (model-2), please use below steps:
   
