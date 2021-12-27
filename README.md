@@ -120,6 +120,6 @@ srauniy@sonu:~/challenge-fashion$ curl -X POST -H 'content-type: application/jso
 ```
 The actual and predicted label is Ankle boot (class 9)
 
-e. Please follow notebook for more predictions examples.
+f. Please follow notebook for more predictions examples.
 
 
